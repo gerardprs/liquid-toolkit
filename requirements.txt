@@ -1,0 +1,11 @@
+pandas
+fredapi
+XlsxWriter
+yfinance
+streamlit
+statsmodels
+scikit-learn
+plotly
+feedparser
+textblob
+fpdf2
