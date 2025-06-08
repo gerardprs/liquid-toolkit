@@ -1,11 +1,8 @@
-pandas
-fredapi
-XlsxWriter
-yfinance
 streamlit
-statsmodels
-scikit-learn
+pandas
+numpy
+yfinance
 plotly
+XlsxWriter
 feedparser
 textblob
-fpdf2
