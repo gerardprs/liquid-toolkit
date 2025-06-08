@@ -3,6 +3,5 @@ pandas
 numpy
 yfinance
 plotly
-XlsxWriter
 feedparser
 textblob
